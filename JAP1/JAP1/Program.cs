@@ -14,7 +14,7 @@ namespace JAP1
       string name = Console.ReadLine();
 
       int age = int.Parse(Console.ReadLine());
-      Console.WriteLine(age.ToString());
+      Console.WriteLine(age.ToString());        
     }
   }
 }
